@@ -1,3 +1,5 @@
 {
-  "vimMode": true
+  "vimMode": true,
+  "livePreview": false,
+  "showLineNumber": false
 }
