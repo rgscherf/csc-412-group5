@@ -1,3 +1,5 @@
+***Group Decision-making Efficiencies***
+
 https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-020-00244-3
 
 Hsieh, CJ., Fifić, M. & Yang, CT. A new measure of group decision-making efficiency. Cogn. Research 5, 45 (2020). https://doi.org/10.1186/s41235-020-00244-3
@@ -11,11 +13,11 @@ The assessment function of capacity (AAND(t)) considers the trade-off between sp
 
 
 __________________________________________________________________________________________________________________
-
+***Decoding and perturbing decision states in real-time***
 
 https://news.stanford.edu/2021/01/25/watching-decision-making-brain/
 
-Peixoto, D., Verhein, J.R., Kiani, R. et al. Decoding and perturbing decision states in real time. Nature 591, 604–609 (2021). https://doi.org/10.1038/s41586-020-03181-9
+Peixoto, D., Verhein, J.R., Kiani, R. et al. Decoding and perturbing decision states in real-time. Nature 591, 604–609 (2021). https://doi.org/10.1038/s41586-020-03181-9
 
 The paper focuses on understanding the neural process of decision-making in the brain and how it influences the outcomes. The researchers developed a system that tracks decision-making in real time by decoding the activity of brain cells.
 
@@ -26,6 +28,8 @@ The findings show that neural activity can provide insights into the decision-ma
 This research opens up new avenues for understanding the intricacies of decision-making at the neural level and may have broader applications in cognitive neuroscience. The study highlights the potential for monitoring and interpreting covert cognitive states through real-time neural recordings and its significance in advancing the field of neuroscience.
 
 __________________________________________________________________________________________________________________
+
+***Overview of Various Models and Modes of Decision-making***
 
 https://www.sciencedirect.com/topics/psychology/decision-making
 
@@ -48,9 +52,7 @@ Organizational Decision Making: The paper briefly touches on models of organizat
 
 
 __________________________________________________________________________________________________________________
-
-
-
+***A Cross-sectional Study on The Decision Making Process in Life Choices***
 
 
 
@@ -81,7 +83,7 @@ ________________________________________________________________________________
 
 
 
-
+***Culture and Decision Making***
 
 
 
