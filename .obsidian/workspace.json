@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,11 +149,11 @@
   },
   "active": "2144a47dd33e9d16",
   "lastOpenFiles": [
+    "Algorithmic bias.md",
     "Bias, decision-making and Decision Support Systems (DSS).md",
     "Bias, decision-making and AI.md",
-    "Background and theory of bias and decision-making.md",
-    "Algorithmic bias.md",
     "Main.md",
+    "Background and theory of bias and decision-making.md",
     "Initial Individual Readings/Tim's readings.md",
     "Initial Individual Readings/Rob's initial reading summary.md",
     "Initial Individual Readings/Omar's initial reading summary.md",
