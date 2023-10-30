@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rob's initial reading summary.md",
+                "file": "Initial Individual Readings/Tim's readings.md",
                 "mode": "source",
                 "source": true
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "02f431063a767b9b",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rob's initial reading summary.md",
+                "file": "Initial Individual Readings/Tim's readings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rob's initial reading summary.md",
+                "file": "Initial Individual Readings/Tim's readings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rob's initial reading summary.md"
+                "file": "Initial Individual Readings/Tim's readings.md"
               }
             }
           }
@@ -149,8 +148,17 @@
   },
   "active": "75037ce7719999e7",
   "lastOpenFiles": [
+    "Main.md",
+    "Initial Individual Readings/Tim's readings.md",
+    "Initial Individual Readings/Rob's initial reading summary.md",
     "Outline.md",
-    "Rob's initial reading summary.md",
+    "Initial Individual Readings",
+    "Initial Individual Readings/Alyssa's Initial Reading Summary.md",
+    "Algorithmic Bias.md",
+    "Background of Cognitive Bias.md",
+    "Decision Support Systems (DSS).md",
+    "Initial Individual Readings/Kes's Research Summary.md",
+    "Initial Individual Readings/Omar's initial reading summary.md",
     "rob-reading-summary.md",
     "Rob reading summary.md"
   ]
