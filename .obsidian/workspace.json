@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "db1cfbbd9cf057b2",
+        "id": "c278ae5b2ad2db20",
         "type": "tabs",
         "children": [
           {
-            "id": "75037ce7719999e7",
+            "id": "2144a47dd33e9d16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initial Individual Readings/Tim's readings.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Initial Individual Readings/Tim's readings.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Initial Individual Readings/Tim's readings.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Initial Individual Readings/Tim's readings.md"
+                "file": "Main.md"
               }
             }
           }
@@ -146,19 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75037ce7719999e7",
+  "active": "2144a47dd33e9d16",
   "lastOpenFiles": [
+    "Bias, decision-making and Decision Support Systems (DSS).md",
+    "Bias, decision-making and AI.md",
+    "Background and theory of bias and decision-making.md",
+    "Algorithmic bias.md",
     "Main.md",
     "Initial Individual Readings/Tim's readings.md",
     "Initial Individual Readings/Rob's initial reading summary.md",
+    "Initial Individual Readings/Omar's initial reading summary.md",
+    "Initial Individual Readings/Kes's Research Summary.md",
+    "Initial Individual Readings/Alyssa's Initial Reading Summary.md",
     "Outline.md",
     "Initial Individual Readings",
-    "Initial Individual Readings/Alyssa's Initial Reading Summary.md",
-    "Algorithmic Bias.md",
-    "Background of Cognitive Bias.md",
-    "Decision Support Systems (DSS).md",
-    "Initial Individual Readings/Kes's Research Summary.md",
-    "Initial Individual Readings/Omar's initial reading summary.md",
     "rob-reading-summary.md",
     "Rob reading summary.md"
   ]

@@ -1,1 +1,0 @@
-Background of Cognitive Bias

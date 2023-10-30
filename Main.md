@@ -1,9 +1,13 @@
-This is our root,
+[[Background and theory of bias and decision-making]]
+[[Algorithmic bias]]
+[[Bias, decision-making and AI]]
+[[Bias, decision-making and Decision Support Systems (DSS)]]
 
+*Thoughts from Rob:* 
 
-[[Background of Cognitive Bias]]
-
-[[Algorithmic Bias]]
-Perhaps we could have a general "Types of cognitive bias" and then make this a sub category
-
-[[Decision Support Systems (DSS)]]
+We should break these into smaller notes, since it looks like we need at least 5 (for an 80% grade). Some ideas:
+- The DSS note is huge--we could find subcategories there.
+	- For example things like wearable/passive DSS, DSS in structured systems (like business applications and medical diagnoses..)
+- As previously mentioned on this page, we could rework the 'algorithmic bias' page into several interlinked 'types of bias' pages.
+- We could also look at dividing the decision-making interventions into smaller top-level categories (outside of AI/not AI). 
+- Good opportunities for backlinking are discussing the interventions in [[Bias, decision-making and Decision Support Systems (DSS)]] [[Bias, decision-making and AI]] in the context of articles in [[Algorithmic bias]] [[Background and theory of bias and decision-making]].

@@ -1,5 +1,6 @@
 {
   "vimMode": true,
   "livePreview": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }
