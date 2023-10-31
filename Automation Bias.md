@@ -2,7 +2,7 @@ Tags: #CognitiveBias #TypesofBias
 
 ## Automation Bias in Intelligent Time Critical Decision Support Systems
 ### Cummings, M. 
-(2004). Automation bias in intelligent time critical decision support systems. _AIAA 1st Intelligent Systems Technical Conference_. https://doi.org/10.2514/6.2004-6313
+https://doi.org/10.2514/6.2004-6313
 - Automation Bias - over reliance on decision support systems, causing the user to always think the computer is right.
 - Has caused tragic accidents when people rely on technology too much for decision making
 - Designers should be aware of the potential negative effects of increasing automation
