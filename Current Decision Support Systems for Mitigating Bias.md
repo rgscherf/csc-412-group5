@@ -1,3 +1,5 @@
+Tags: #DecisionSupportSystems
+
 Mitigating cognitive bias with clinical decision support systems: an experimental study
 Küper, A., Lodde, G., Livingstone, E., Schadendorf, D., & Krämer, N. (2023). Mitigating cognitive bias with clinical decision support systems: An experimental study. _Journal of Decision Systems_, 1–20. https://doi.org/10.1080/12460125.2023.2245215
 - Clinical Decision Support Systems (CDSS) are used to help clinicians in their decision making by "providing targeted clinical knowledge, patient information and other relevant health information "
