@@ -1,3 +1,5 @@
+Tags: #CognitiveBias #TypesofBias
+
 The Bias in the Machine: Facial Recognition Technology and Racial Disparities. Sidney Perkowitz. (2021). MIT Schwarzman College of Computing. Retrieved from: [https://mit-serc.pubpub.org/pub/bias-in-machine/release/1?readingCollection=34db8026](https://mit-serc.pubpub.org/pub/bias-in-machine/release/1?readingCollection=34db8026).
 - Growing research suggests FRTs are guilty of troubling levels of bias, particularly as these technologies are incorporated into law enforcement agencies. As we all struggle to contain these issues, the author claims that we can turn to older forensic technologies, such as fingerprint ID, for answers. 
 - Fingerprint ID was prone to egregious errors as well, including it’s use to wrongfully ID suspects in the 2004 Madrid terrorist bombings of commuter trains.
