@@ -68,3 +68,6 @@ We categorized our research according to the following index, with topics and su
      - [[Design and Methods of Debiasing for DSS#Cognitive Bias, Decision Styles, and Risk Attitudes in decision making and DSS|Cognitive Bias, Decision Styles, and Risk Attitudes in decision making and DSS]]
      - [[Design and Methods of Debiasing for DSS#Augmented human mind case of reasoning|Augmented human mind: case of reasoning]]
 
+## References
+DOI links are provided in each article header. We also provide a more thorough [[References]] section for your convenience.
+
