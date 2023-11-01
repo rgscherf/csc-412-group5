@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Algorithmic Bias.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Algorithmic Bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "Algorithmic Bias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "Algorithmic Bias.md"
               }
             }
           }
@@ -149,12 +150,16 @@
   "active": "2144a47dd33e9d16",
   "lastOpenFiles": [
     "Background and theory of bias and decision-making.md",
+    "Main.md",
+    "Bias, decision-making, and Decision Support Systems (DSS).md",
+    "Creation of Bias from DSS.md",
+    "Current Decision Support Systems for Mitigating Bias.md",
+    "Untitled.canvas",
+    "Design and Methods of Debiasing for DSS.md",
+    "Bias, decision-making, and AI.md",
     "Automation Bias.md",
     "Algorithmic Bias.md",
-    "Design and Methods of Debiasing for DSS.md",
     "Types of Biases.md",
-    "Main.md",
-    "Bias, decision-making, and AI.md",
     "Algorithmic bias.md",
     "Bias, decision-making and Decision Support Systems (DSS).md",
     "Bias, decision-making and AI.md",
