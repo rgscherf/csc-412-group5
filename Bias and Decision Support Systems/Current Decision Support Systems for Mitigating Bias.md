@@ -1,7 +1,7 @@
 ## Mitigating cognitive bias with clinical decision support systems: an experimental study
 ### Küper, A., Lodde, G., Livingstone, E., Schadendorf, D., & Krämer, N.
 https://doi.org/10.1080/12460125.2023.2245215
-- Clinical Decision Support Systems (CDSS) are used to help clinicians in their decision making by "providing targeted clinical knowledge, patient information and other relevant health information "
+- Clinical Decision Support Systems (CDSS) are used to help clinicians in their decision making by "providing targeted clinical knowledge, patient information and other relevant health information " #practitioner-contexts
 - Bias in clinical reasoning has been shown as a major source for diagnostic errors
 - Proposes that a DSS that suggests possible diagnosis and provided info to mitigate cognitive bias could support doctors finding the correct diagnosis
 - Crowley (2013) showed that technology could detect bias
@@ -19,7 +19,7 @@ https://doi.org/10.1145/3384657.3384799
 ## Addressing Cognitive Biases in Augmented Business Decision Systems
 ### Thomas Baudel, Manon Verbockhaven, Guillaume Roy, Victoire Cousergue, Rida Laarach
 https://doi.org/10.48550/arXiv.2009.08127
-- How do algorithmic decision aids introduced in business decision processes affect task performance?
+- How do algorithmic decision aids introduced in business decision processes affect task performance? #practitioner-contexts 
 - Experiment to evaluate the effectiveness of presentation variants in reducing complacency bias. Results: found that optional presentation increases subjects' resistance to wrong recommendations. 
 - "In the longer run, we envision that decision aids will be generalized in business decision systems, provided they are instrumented with tooling that continuously assesses their relevance and performance so as to mitigate risks while improving the productivity and quality of decision-making."
 

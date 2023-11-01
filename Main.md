@@ -1,6 +1,12 @@
 ## Introduction
 Our group chose to explore the presence of bias in computing technology, its common causes and remedies, and more interestingly, the evolving impact bias has on both human and computer-based decision-making. We present a collection of curated academic research papers and journal articles that span a series of independent and overlapping lines of inquiry, which themselves are organized  into four of the most prominent and reoccurring themes that emerged in our survey. 
 
+## How this vault is structured
+We've used three strategies to help you navigate our project:
+1. The directory structure (viewable with the 'files' button in the lefthand sidebar) groups related notes together. This strategy is intended to help the reader get a high-level conceptual overview.
+2. Where the discussion can make useful reference to another section, we've inserted an inline link to that section. This strategy is intended to make direct connections across topics for the reader.
+3. Concepts that appear in many places across the vault are tagged. You can ctrl-click a tag to search for other places it appears in the vault. You can also explore tags by clicking the 'tags' button in the righthand sidebar. This strategy is intended to highlight ideas that thread through disparate concepts. Try it out: #perception #physical-technologies #group 
+
 ## Definitions
 We offer the following general definitions as a supplement to the navigation and understanding of the topics listed in the index below.
 
@@ -22,12 +28,6 @@ The papers in this section cover the impact of biases on professionals and their
 
 ### Bias and Decision Support Systems ([[Creation of Bias from DSS|1]], [[Current Decision Support Systems for Mitigating Bias|2]], [[Design and Methods of Debiasing for DSS|3]])
 The papers cover behavioural decision theory and discuss up to 37 cognitive biases. The papers particularly emphasize integrating cognitive bias theory into the development of decision support systems (DSS). Further, the papers covered how DSS may assist in alleviating decision biases linked to personal decision-making styles and risk attitudes.
-
-## How this vault is structured
-We've used three strategies to help you navigate our project:
-1. The directory structure (viewable with the 'files' button in the lefthand sidebar) groups related notes together. This strategy is intended to help the reader get a high-level conceptual overview.
-2. Where the discussion can make useful reference to another section, we've inserted an inline link to that section. This strategy is intended to make direct connections across topics for the reader.
-3. Concepts that appear in many places across the vault are tagged. You can ctrl-click a tag to search for other places it appears in the vault. You can also explore tags by clicking the 'tags' button in the righthand sidebar. This strategy is intended to highlight ideas that thread through disparate concepts.
 
 ## Index
 We categorized our research according to the following index, with topics and subtopics bolded and their respective papers listed beneath.

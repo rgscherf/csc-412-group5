@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main.md",
+                "file": "Bias and Decision Support Systems/Design and Methods of Debiasing for DSS.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "group",
+                "query": "emotion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "Bias and Decision Support Systems/Design and Methods of Debiasing for DSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main.md",
+                "file": "Bias and Decision Support Systems/Design and Methods of Debiasing for DSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main.md"
+                "file": "Bias and Decision Support Systems/Design and Methods of Debiasing for DSS.md"
               }
             }
           }
@@ -134,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,16 +148,16 @@
   },
   "active": "2144a47dd33e9d16",
   "lastOpenFiles": [
-    "Types of Biases/Automation Bias.md",
-    "Types of Biases/_Types of Biases.md",
-    "Bias and Decision Support Systems/_Bias and Decision Support Systems.md",
-    "Types of Biases/Algorithmic Bias.md",
+    "Main.md",
+    "Bias and AI/Bias, decision-making, and AI.md",
+    "Background and theory/Background and theory of decision-making.md",
     "Bias and Decision Support Systems/Design and Methods of Debiasing for DSS.md",
     "Bias and Decision Support Systems/Current Decision Support Systems for Mitigating Bias.md",
     "Bias and Decision Support Systems/Creation of Bias from DSS.md",
-    "Bias and AI/Bias, decision-making, and AI.md",
-    "Background and theory/Background and theory of decision-making.md",
-    "Main.md",
+    "Types of Biases/Algorithmic Bias.md",
+    "Types of Biases/Automation Bias.md",
+    "Types of Biases/_Types of Biases.md",
+    "Bias and Decision Support Systems/_Bias and Decision Support Systems.md",
     "Types of Biases.md",
     "How this vault is structured.md",
     "Creation of Bias from DSS.md",
