@@ -9,7 +9,7 @@ https://doi.org/10.2514/6.2004-6313
 - Future designs should aid human decisions, not totally replace decisions by humans
 - May be important to note that decision technologies can also cause bias, in the process of eliminating bias.
 
-## Automation Bias: Decision Making and Performance in High-Tech Cockpits. 
+## Automation Bias: Decision Making and Performance in High-Tech Cockpits
 ### Mosier, K. L., Skitka, L. J., Heers, S., & Burdick, M.
 https://doi.org/10.1207/s15327108ijap0801_3
 - #automation-bias, a recently documented factor in the use of automated aids and decision support systems. The term refers to **omission and commission errors resulting from the use of automated cues as a heuristic replacement for vigilant information seeking and processing.**
