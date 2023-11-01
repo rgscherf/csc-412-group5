@@ -1,5 +1,3 @@
-Tags: #CognitiveBias #TypesofBias
-
 ## Automation Bias in Intelligent Time Critical Decision Support Systems
 ### Cummings, M. 
 https://doi.org/10.2514/6.2004-6313
@@ -14,4 +12,4 @@ https://doi.org/10.2514/6.2004-6313
 https://doi.org/10.1207/s15327108ijap0801_3
 - #automation-bias, a recently documented factor in the use of automated aids and decision support systems. The term refers to **omission and commission errors resulting from the use of automated cues as a heuristic replacement for vigilant information seeking and processing.**
 - Automation aids caused pilots to be less attentive to their decisions (including decisions made by aids), unless the pilot had taken steps to internalize a sense of accountability i.e. discipline for retracing their decision-making processes.
-- Interestingly, pilots who blindly followed false signals from their cognitive aid software later 'remembered' seeing corroborating signals with their own senses.
+- Interestingly, pilots who blindly followed false signals from their cognitive aid software later 'remembered' seeing corroborating signals with their own senses #perception .

@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2240711c88588026",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f2a741e02ec8c49a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Background and theory/Background and theory of decision-making.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cognitive biases and",
+                "query": "group",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,20 +149,20 @@
   },
   "active": "2144a47dd33e9d16",
   "lastOpenFiles": [
-    "Background and theory/Background and theory of decision-making.md",
-    "Main.md",
-    "Types of Biases/Algorithmic Bias.md",
-    "Bias and AI/Bias, decision-making, and AI.md",
-    "Types of Biases.md",
-    "Types of Biases/_Types of Biases.md",
-    "How this vault is structured.md",
-    "Creation of Bias from DSS.md",
     "Types of Biases/Automation Bias.md",
-    "Types of Biases",
+    "Types of Biases/_Types of Biases.md",
     "Bias and Decision Support Systems/_Bias and Decision Support Systems.md",
+    "Types of Biases/Algorithmic Bias.md",
     "Bias and Decision Support Systems/Design and Methods of Debiasing for DSS.md",
     "Bias and Decision Support Systems/Current Decision Support Systems for Mitigating Bias.md",
     "Bias and Decision Support Systems/Creation of Bias from DSS.md",
+    "Bias and AI/Bias, decision-making, and AI.md",
+    "Background and theory/Background and theory of decision-making.md",
+    "Main.md",
+    "Types of Biases.md",
+    "How this vault is structured.md",
+    "Creation of Bias from DSS.md",
+    "Types of Biases",
     "Bias and Decision Support Systems",
     "Bias and AI",
     "Background and theory",

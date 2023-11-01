@@ -11,23 +11,23 @@ We offer the following general definitions as a supplement to the navigation and
 **Decision Support Systems (DSS)** - An interactive computer-based system or software designed to assist decision-makers in solving complex problems or making decisions.
 
 ## Topics
-[[Background and theory of decision-making]]
-These research papers encompass a variety of decision-making topics found in academic literature, such as group decision-making efficiency, real-time neural monitoring, models and modes of decision-making focusing on deviations from rationality, decision-making in significant life choices, and cross-cultural influences on reasoning, emotions, and values in decision-making. Collectively, these papers provide valuable insights into the intricacies of decision-making.
+### [[Background and theory of decision-making]]
+These research papers encompass a variety of decision-making topics found in academic literature, such as #group decision-making efficiency, real-time neural monitoring, models and modes of decision-making focusing on deviations from rationality, decision-making in significant life choices, and cross-cultural influences on reasoning, emotions, and values in decision-making. Collectively, these papers provide valuable insights into the intricacies of decision-making.
 
-[[_Types of Biases]]
-The papers cover automation bias in decision support systems, where users tend to overly trust automated cues, potentially leading to errors. This bias has been linked to accidents due to excessive reliance on technology.  The papers suggest potential solutions and recommendations to the mentioned challenges.
+### Types of Biases ([[Types of Biases/Algorithmic Bias|1]], [[Automation Bias|2]])
+The papers cover #automation-bias in decision support systems, where users tend to overly trust automated cues, potentially leading to errors. This bias has been linked to accidents due to excessive reliance on technology.  The papers suggest potential solutions and recommendations to the mentioned challenges.
 
-[[Bias, decision-making, and AI]]
+### [[Bias, decision-making, and AI]]
 The papers in this section cover the impact of biases on professionals and their decision-making processes, shedding light on the potential of AI to either mitigate or exacerbate these biases. Furthermore, the transfer of bias from humans to AI is a key topic under consideration. The papers also delve into the manipulation of biases, exploring concepts like automation bias and selective adherence. Overall, there is a significant emphasis on AI's potential to eliminate bias across a wide range of industries.
 
-[[_Bias and Decision Support Systems]]
+### Bias and Decision Support Systems ([[Creation of Bias from DSS|1]], [[Current Decision Support Systems for Mitigating Bias|2]], [[Design and Methods of Debiasing for DSS|3]])
 The papers cover behavioural decision theory and discuss up to 37 cognitive biases. The papers particularly emphasize integrating cognitive bias theory into the development of decision support systems (DSS). Further, the papers covered how DSS may assist in alleviating decision biases linked to personal decision-making styles and risk attitudes.
 
 ## How this vault is structured
 We've used three strategies to help you navigate our project:
-1. The directory structure (viewable with the 'files' button in the lefthand sidebar) groups related notes together. Several directories also include an overview note, whose name is prefixed with an underscore.
-2. Where the discussion can make useful reference to another section, we've inserted an inline link to that section. 
-3. Concepts that appear in many places across the vault are tagged. You can ctrl-click a tag to search for other places it appears in the vault. You can also explore tags by clicking the 'tags' button in the righthand sidebar.
+1. The directory structure (viewable with the 'files' button in the lefthand sidebar) groups related notes together. This strategy is intended to help the reader get a high-level conceptual overview.
+2. Where the discussion can make useful reference to another section, we've inserted an inline link to that section. This strategy is intended to make direct connections across topics for the reader.
+3. Concepts that appear in many places across the vault are tagged. You can ctrl-click a tag to search for other places it appears in the vault. You can also explore tags by clicking the 'tags' button in the righthand sidebar. This strategy is intended to highlight ideas that thread through disparate concepts.
 
 ## Index
 We categorized our research according to the following index, with topics and subtopics bolded and their respective papers listed beneath.

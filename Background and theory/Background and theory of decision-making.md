@@ -1,7 +1,7 @@
 ## A new measure of group decision-making efficiency
 ### Hsieh, CJ., Fifić, M. & Yang, CT
 https://doi.org/10.1186/s41235-020-00244-3
-- In this paper, the authors investigate the efficiency of group decision-making in comparison to individual decision-making. While it is widely accepted that groups tend to make more accurate decisions than individuals, this study explores whether group decisions are also more efficient in terms of processing speed. To address this, the authors use a methodology called systems factorial technology.
+- In this paper, the authors investigate the efficiency of #group decision-making in comparison to individual decision-making. While it is widely accepted that groups tend to make more accurate decisions than individuals, this study explores whether group decisions are also more efficient in terms of processing speed. To address this, the authors use a methodology called systems factorial technology.
 - Two key factors are measured: Workload capacity (CAND(t)) focusing on correct responses.
 - The assessment function of capacity (AAND(t)) considers the trade-off between speed and accuracy.
 
@@ -43,14 +43,14 @@ https://doi.org/10.1007/s12144-022-02792-x
 https://doi.org/10.1016%2Fj.obhdp.2016.05.003
 - Reasoning: According to the paper, Western cultures tend to favour analytical thinking, focusing on individual objects and their attributes. On the other hand, East Asian cultures tend to utilize holistic thinking, considering context and object relationships.
 - These cognitive styles may impact risk perception, judgment, and problem-solving in decision-making.
-- Emotion: Emotions significantly influence decision-making across cultures.
+- Emotion: Emotions significantly influence decision-making across cultures, including #perception of fairness.
 - Cultural variations in emotional expression and emphasis on specific emotions lead to differing decision-making outcomes.
-- Emotional collectivism can have a more substantial influence on group decisions.
+- Emotional collectivism can have a more substantial influence on #group decisions.
 - Value and Tradeoffs: Cultural factors influence the attribution of causality in decision-making.
 - Personal values, the self, and dissonance can vary across cultures.
 - Loss aversion, reference point adaptation, and tradeoff resolution are influenced by culture.
 - Summary:
-- Cross-cultural differences in decision-making encompass reasoning styles, emotions, and values.
-- These differences impact risk assessment, emotional regulation, and the resolution of tradeoff dilemmas.
-- Understanding these variations is essential for appreciating the diversity in human decision-making and addressing cultural context's influence on choices and behaviours.
-
+	- Cross-cultural differences in decision-making encompass reasoning styles, emotions, and values.
+	- These differences impact risk assessment, emotional regulation, and the resolution of tradeoff dilemmas.
+	- Understanding these variations is essential for appreciating the diversity in human decision-making and addressing cultural context's influence on choices and behaviours.
+	

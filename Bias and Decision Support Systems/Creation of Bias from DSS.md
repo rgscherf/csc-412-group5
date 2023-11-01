@@ -1,5 +1,3 @@
-Tags: #CognitiveBias #DecisionSupportSystems
-
 ## Cognitive biases and decision support systems development: A design science approach
 ### Arnott, D. 
 https://doi.org/10.1111/j.1365-2575.2006.00208.x

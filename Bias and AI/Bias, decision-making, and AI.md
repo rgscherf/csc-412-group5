@@ -8,7 +8,7 @@ https://www.sciencedirect.com/science/article/pii/S0148296322007445
 ### Futami K, Yanase S, Murao K, Terada T
 https://doi.org/10.3390/s22249961
 - Using emotional estimation AI has shown to manipulate peoples' perceptions of others, which can be considered for altering cognitive biases. 
-- " Viewing information that estimated others’ emotions more positively/negatively caused the phenomenon in which the user’s self-judgment was overridden and others’ impressions of emotions, words, and actions were perceived more positively/negatively."
+- " Viewing information that estimated others’ emotions more positively/negatively caused the phenomenon in which the user’s self-judgment was overridden and others’ impressions of emotions, words, and actions were perceived more positively/negatively." #perception 
 
 ## Human–AI Interactions in Public Sector Decision Making: “Automation Bias” and “Selective Adherence” to Algorithmic Advice
 ### Alon-Barkat, S., & Busuioc, M.
