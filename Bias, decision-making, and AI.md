@@ -15,7 +15,7 @@ https://doi.org/10.3390/s22249961
 https://doi.org/10.1093/jopart/muac007
 - This article examines bias among public servants in the Netherlands when their decisions are aided by AI models.
 - The authors theorize two types of bias:
-	1. *automation bias*, where the subject over-relies on advice from an algorithm even when the advice is clearly wrong.
+	1. #automation-bias, where the subject over-relies on advice from an algorithm even when the advice is clearly wrong.
 	2. *selective adherence*, where the subject disproportionately follows advice when it corresponds with their own internal biases/stereotypes.
 - The authors conducted three experiments. 
 - In the first, automation bias was tested against similar advice from human experts. Subjects did display automation bias, but in no greater proportion than the same bias provided by the human experts.

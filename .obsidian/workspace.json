@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithmic Bias.md",
+                "file": "Creation of Bias from DSS.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "high tech cockpits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 450.5
   },
   "right": {
     "id": "02f431063a767b9b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithmic Bias.md",
+                "file": "Creation of Bias from DSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithmic Bias.md",
+                "file": "Creation of Bias from DSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithmic Bias.md"
+                "file": "Creation of Bias from DSS.md"
               }
             }
           }
@@ -149,16 +150,16 @@
   },
   "active": "2144a47dd33e9d16",
   "lastOpenFiles": [
-    "Background and theory of bias and decision-making.md",
-    "Main.md",
-    "Bias, decision-making, and Decision Support Systems (DSS).md",
-    "Creation of Bias from DSS.md",
-    "Current Decision Support Systems for Mitigating Bias.md",
-    "Untitled.canvas",
-    "Design and Methods of Debiasing for DSS.md",
-    "Bias, decision-making, and AI.md",
-    "Automation Bias.md",
     "Algorithmic Bias.md",
+    "Creation of Bias from DSS.md",
+    "Automation Bias.md",
+    "Bias, decision-making, and AI.md",
+    "Background and theory of decision-making.md",
+    "Current Decision Support Systems for Mitigating Bias.md",
+    "Design and Methods of Debiasing for DSS.md",
+    "Bias, decision-making, and Decision Support Systems (DSS).md",
+    "Main.md",
+    "Untitled.canvas",
     "Types of Biases.md",
     "Algorithmic bias.md",
     "Bias, decision-making and Decision Support Systems (DSS).md",

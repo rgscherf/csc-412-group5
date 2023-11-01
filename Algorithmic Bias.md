@@ -13,11 +13,11 @@ Retrieved from: https://mit-serc.pubpub.org/pub/bias-in-machine/release/1?readin
 https://doi.org/10.1080/0960085X.2021.1927212
  - This is a lit review of research related to algorithmic bias. Studies were categorized under six themes:
  	1. Ethical, social, and philosophical considerations
- 	2. Legal and regulatory implications
+ 	2. Legal and regulatory implications (discussed [[Algorithmic Bias#The Bias in the Machine Facial Recognition Technology and Racial Disparities|here]])
  	3. Socio-technical design
  	4. Concerns, perceptions, and needs
- 	5. Antecedents of fairness perceptions
- 	6. Impacts of machine advice on decisions (which connects with the Mosier, Skitka, et al articles)
+ 	5. Antecedents of fairness perceptions (discussed [[Algorithmic Bias#Factors Influencing Perceived Fairness in Algorithmic Decision-Making Algorithm Outcomes, Development Procedures, and Individual Differences|here]])
+ 	6. Impacts of machine advice on decisions (discussed by Mosier et al [[Current Decision Support Systems for Mitigating Bias#Does automation bias decision-making?|here]] and [[Creation of Bias from DSS#Automation Bias Decision Making and Performance in High-Tech Cockpits|here]])
  - "algorithmic bias appears when _an algorithm distributes benefits and burdens unequally among different individuals or groups_." It's important to take a domain-specific approach because one measure of bias can mean a lot in one of the above themes, but have less real impact in another. 
  - The authors note that algorithmic bias has been canvassed exhaustively at the conceptual level, but little empirical work has been done. "Moreover, the mechanisms through which technology-driven biases translate into decisions and behaviours have been largely overlooked."
   - The article also highlights the difference between "algorithmic bias, as a computationally-measured construct, and perceived fairness, as a subjective construct."

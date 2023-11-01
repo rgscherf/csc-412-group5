@@ -1,4 +1,4 @@
-[[Background and theory of bias and decision-making]]
+[[Background and theory of decision-making]]
 These research papers encompass a variety of decision-making topics found in academic literature, such as group decision-making efficiency, real-time neural monitoring, models and modes of decision-making focusing on deviations from rationality, decision-making in significant life choices, and cross-cultural influences on reasoning, emotions, and values in decision-making. Collectively, these papers provide valuable insights into the intricacies of decision-making.
 [[Types of Biases]]
 
