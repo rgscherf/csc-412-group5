@@ -18,21 +18,26 @@
                 "source": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2240711c88588026",
+        "type": "tabs",
+        "children": [
           {
-            "id": "6356ac8c5483e51d",
+            "id": "f2a741e02ec8c49a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How this vault is structured.md",
+                "file": "Background and theory/Background and theory of decision-making.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DecisionSupportSystems",
+                "query": "cognitive biases and",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 294.5
   },
   "right": {
     "id": "02f431063a767b9b",
@@ -98,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How this vault is structured.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How this vault is structured.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +143,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How this vault is structured.md"
+                "file": "Main.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -160,26 +165,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6356ac8c5483e51d",
+  "active": "2144a47dd33e9d16",
   "lastOpenFiles": [
-    "Bias and Decision Support Systems/Creation of Bias from DSS.md",
-    "How this vault is structured.md",
-    "Main.md",
-    "Structure.md",
-    "Bias and AI/Bias, decision-making, and AI.md",
     "Background and theory/Background and theory of decision-making.md",
-    "Bias and Decision Support Systems/_Bias and Decision Support Systems.md",
+    "Main.md",
+    "Types of Biases/Algorithmic Bias.md",
+    "Bias and AI/Bias, decision-making, and AI.md",
+    "Types of Biases.md",
     "Types of Biases/_Types of Biases.md",
+    "How this vault is structured.md",
+    "Creation of Bias from DSS.md",
+    "Types of Biases/Automation Bias.md",
+    "Types of Biases",
+    "Bias and Decision Support Systems/_Bias and Decision Support Systems.md",
     "Bias and Decision Support Systems/Design and Methods of Debiasing for DSS.md",
     "Bias and Decision Support Systems/Current Decision Support Systems for Mitigating Bias.md",
+    "Bias and Decision Support Systems/Creation of Bias from DSS.md",
+    "Bias and Decision Support Systems",
     "Bias and AI",
     "Background and theory",
-    "Types of Biases/Algorithmic Bias.md",
-    "Types of Biases",
-    "Types of Biases/Automation Bias.md",
-    "Bias and Decision Support Systems",
-    "Untitled.canvas",
     "Algorithmic bias.md",
+    "Automation Bias.md",
+    "Background and theory of bias and decision-making.md",
+    "Bias, decision-making, and AI.md",
+    "Bias, decision-making, and Decision Support Systems (DSS).md",
+    "Current Decision Support Systems for Mitigating Bias.md",
     "Bias, decision-making and Decision Support Systems (DSS).md",
     "Bias, decision-making and AI.md",
     "Initial Individual Readings/Tim's readings.md",
@@ -187,9 +197,6 @@
     "Initial Individual Readings/Omar's initial reading summary.md",
     "Initial Individual Readings/Kes's Research Summary.md",
     "Initial Individual Readings/Alyssa's Initial Reading Summary.md",
-    "Outline.md",
-    "Initial Individual Readings",
-    "rob-reading-summary.md",
-    "Rob reading summary.md"
+    "Initial Individual Readings"
   ]
 }
