@@ -8,4 +8,6 @@ The papers cover automation bias in decision support systems, where users tend t
 The papers in this section cover the impact of biases on professionals and their decision-making processes, shedding light on the potential of AI to either mitigate or exacerbate these biases. Furthermore, the transfer of bias from humans to AI is a key topic under consideration. The papers also delve into the manipulation of biases, exploring concepts like automation bias and selective adherence. Overall, there is a significant emphasis on AI's potential to eliminate bias across a wide range of industries.
 
 [[_Bias and Decision Support Systems]]
+The papers cover behavioural decision theory and discuss up to 37 cognitive biases. The papers particularly emphasize integrating cognitive bias theory into the development of decision support systems (DSS). Further, the papers covered how DSS may assist in alleviating decision biases linked to personal decision-making styles and risk attitudes.
+
 
