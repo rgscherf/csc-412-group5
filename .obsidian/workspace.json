@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bias and AI/Bias, decision-making, and AI.md",
+                "file": "Main.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#automation-bias",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 450.5
+    "width": 200
   },
   "right": {
     "id": "02f431063a767b9b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bias and AI/Bias, decision-making, and AI.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bias and AI/Bias, decision-making, and AI.md",
+                "file": "Main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bias and AI/Bias, decision-making, and AI.md"
+                "file": "Main.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,21 +148,26 @@
   },
   "active": "2144a47dd33e9d16",
   "lastOpenFiles": [
-    "Background and theory/Background and theory of decision-making.md",
-    "Bias and AI/Bias, decision-making, and AI.md",
-    "Bias and Decision Support Systems/_Bias and Decision Support Systems.md",
+    "Types of Biases/Automation Bias.md",
     "Types of Biases/_Types of Biases.md",
+    "Types of Biases/Algorithmic Bias.md",
+    "Types of Biases",
+    "Bias and Decision Support Systems/_Bias and Decision Support Systems.md",
     "Bias and Decision Support Systems/Design and Methods of Debiasing for DSS.md",
     "Bias and Decision Support Systems/Current Decision Support Systems for Mitigating Bias.md",
     "Bias and Decision Support Systems/Creation of Bias from DSS.md",
-    "Main.md",
-    "Bias and AI",
-    "Background and theory",
-    "Types of Biases/Algorithmic Bias.md",
-    "Types of Biases",
-    "Types of Biases/Automation Bias.md",
     "Bias and Decision Support Systems",
-    "Untitled.canvas",
+    "Bias and AI/Bias, decision-making, and AI.md",
+    "Bias and AI",
+    "Background and theory/Background and theory of decision-making.md",
+    "Background and theory",
+    "Background and theory of bias and decision-making.md",
+    "Automation Bias.md",
+    "Algorithmic Bias.md",
+    "Design and Methods of Debiasing for DSS.md",
+    "Types of Biases.md",
+    "Main.md",
+    "Bias, decision-making, and AI.md",
     "Algorithmic bias.md",
     "Bias, decision-making and Decision Support Systems (DSS).md",
     "Bias, decision-making and AI.md",
@@ -174,7 +178,6 @@
     "Initial Individual Readings/Alyssa's Initial Reading Summary.md",
     "Outline.md",
     "Initial Individual Readings",
-    "rob-reading-summary.md",
-    "Rob reading summary.md"
+    "rob-reading-summary.md"
   ]
 }
