@@ -19,8 +19,8 @@ https://doi.org/10.1080/0960085X.2021.1927212
  	5. Antecedents of fairness perceptions (discussed [[Algorithmic Bias#Factors Influencing Perceived Fairness in Algorithmic Decision-Making Algorithm Outcomes, Development Procedures, and Individual Differences|here]])
  	6. Impacts of machine advice on decisions (discussed by Mosier et al [[Current Decision Support Systems for Mitigating Bias#Does automation bias decision-making?|here]] and [[Creation of Bias from DSS#Automation Bias Decision Making and Performance in High-Tech Cockpits|here]])
  - "algorithmic bias appears when _an algorithm distributes benefits and burdens unequally among different individuals or groups_." It's important to take a domain-specific approach because one measure of bias can mean a lot in one of the above themes, but have less real impact in another. 
- - The authors note that algorithmic bias has been canvassed exhaustively at the conceptual level, but little empirical work has been done. "Moreover, the mechanisms through which technology-driven biases translate into decisions and behaviours have been largely overlooked."
-  - The article also highlights the difference between "algorithmic bias, as a computationally-measured construct, and perceived fairness, as a subjective construct."
+ - The authors note that algorithmic bias has been canvassed exhaustively at the conceptual level, but little empirical work has been done. "Moreover, the mechanisms through which technology-driven biases translate into decisions and behaviors have been largely overlooked."
+ - The article also highlights the difference between "algorithmic bias, as a computationally-measured construct, and perceived fairness, as a subjective construct."
    
 ## Factors Influencing Perceived Fairness in Algorithmic Decision-Making: Algorithm Outcomes, Development Procedures, and Individual Differences
 ### Wang, R., Harper, F. M., & Zhu, H.

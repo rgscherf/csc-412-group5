@@ -14,7 +14,7 @@ https://doi.org/10.1080/12460125.2023.2245215
 ### Valdemar Danry, Pat Pataranutaporn, Yaoli Mao, and Pattie Maes
 https://doi.org/10.1145/3384657.3384799
 - " Human judgments and decisions are prone to errors in reasoning caused by factors such as personal biases and external misinformation."
-- "wearable reasoner" is a wearable system that is capable of analyzing if an argument is stated with evidence or not/
+- "wearable reasoner" is a #physical-technologies wearable system that is capable of analyzing if an argument is stated with evidence or not/
 - results show it enhances rationality in users
 - Is not directly related to bias, however states that improving error in reasoning is related to biases in perception. 
 
@@ -46,6 +46,5 @@ https:/doi.org/10.1016/j.dss.2012.03.009
 ### Skitka, L. J., Mosier, K. L., & Burdick, M.
 https://doi.org/10.1006/ijhc.1999.0252
 - "Participants in non-automated settings out-performed their counterparts with a very but not perfectly reliable automated aid on a monitoring task. Participants with an aid made errors of omission (missed events when not explicitly prompted about them by the aid) and commission (did what an automated aid recommended, even when it contradicted their training and other 100% valid and available indicators)."
-- Same authors of previous article//very similar content
 - Contains more detail about omission errors, focusing on not-perfectly-reliable cognitive aids. If the aid fails to prompt the user about something it *should*, then the user is very likely to miss that error. Conversely, unlikely to make the same error of omission if there's no aid.
-- "Participants in the non-automated condition responded with 97% accuracy on the six omission error events, whereas participants in the automated condition responded with only a 59% accuracy rate on these same events. People with an AMA were therefore more likely to miss events than those without an AMA, if the AMA failed to notify them of the event." (p 1002)
+- "Participants in the non-automated condition responded with 97% accuracy on the six omission error events, whereas participants in the automated condition responded with only a 59% accuracy rate on these same events. People with an AMA were therefore more likely to miss events than those without an AMA, if the AMA failed to notify them of the event." 
