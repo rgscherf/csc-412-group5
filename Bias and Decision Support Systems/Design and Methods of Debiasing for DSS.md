@@ -19,6 +19,6 @@ https://doi.org/10.1080/12460125.2019.1646509
 ## Augmented human mind: case of reasoning
 ### Damien Brun,Charles Gouin-Vallerand,Sébastien George.
 https://hal.science/hal-02264940/document 
-- A suggested "radical method to debiasing" using augmented reality. #physical-technologies
+- A suggested "radical method to #debiasing" using augmented reality. #physical-technologies
 - "we made a first attempt to propose an approach of a system capable of augmenting the reasoning of his user."
 - proposed system to to detect cognitive biases and change the environment as possibly with a smartphone or watch, HoloLens, or other #physical-technologies to modify the environment to debias situations.
