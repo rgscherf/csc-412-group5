@@ -6,7 +6,7 @@ https://doi.org/10.1111/j.1365-2575.2006.00208.x
 	1) Correcting flaws in the experimental design surrounding the decision task
 	2) demonstrating to decision-makers that the biases exist and teaching them to avoid them.
 	3) correcting for possible mismatches between decision-maker and task
-- Results showed that bias was present in computer based decision support systems, their approach to debiasing by making people aware of the bias had no effect.
+- Results showed that bias was present in computer based decision support systems, their approach to #debiasing by making people aware of the bias had no effect.
 
 ## Automation Bias in Intelligent Time Critical Decision Support Systems
 ### Cummings, M.
